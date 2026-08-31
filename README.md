@@ -13,9 +13,10 @@ I have no idea how to use github
 - **Merge**: Combine two versions (branches) into one.
 - **Fork**: Copy someone’s project to work on it.
 - **Pull Request (PR)**: Ask to add your changes to someone else’s project.
+- **Main**: The primary branch of the repository.
 - **Remote**: The GitHub copy of the repository.
 - **Origin**: The name Git gives to that remote.
-- **Main**: The primary branch of the repository.
+    - origin/main: The main branch of the remote connection source
 
 ## Simple Terminal Glossary
 
