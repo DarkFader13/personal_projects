@@ -1,1 +1,0 @@
-Some calculation or aggregation from the [[Fact Table]] 

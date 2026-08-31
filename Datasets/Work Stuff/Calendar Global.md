@@ -1,1 +1,0 @@
-Main Table to power time intelligence functions on [[Fact Table]]
